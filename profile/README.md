@@ -1,4 +1,8 @@
-> project has moved to https://repo.katenary.io/Katenary, please update your bookmarks.
+>  ⚠️ **PROJECT HAS MOVED**
+> 
+>  ⚠️ **Katenary has moved to https://repo.katenary.io/Katenary, please update your bookmarks.**
+>
+> See the discussion here https://github.com/orgs/Katenary/discussions/162
 
 ## Katenary 👋
 
