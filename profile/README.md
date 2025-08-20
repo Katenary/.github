@@ -1,3 +1,5 @@
+> project has moved to https://repo.katenary.io/Katenary, please update your bookmarks.
+
 ## Katenary 👋
 
 <!--
